@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 
 # Your Canvas API details
 API_URL = "https://ulm.instructure.com/api/v1/courses"
-TOKEN = "add your token here"  # Replace with your actual API token
+TOKEN = "Add your Canvas token here"  # Replace with your actual API token
 
 # Authentication headers
 headers = {
